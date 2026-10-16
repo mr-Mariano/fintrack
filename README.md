@@ -2,7 +2,6 @@
 
 A collaborative personal finance web application with an Express API, MongoDB persistence, and a vanilla JavaScript interface. Track accounts, categories, transactions, and budgets from a single application.
 
-[Hosted application](https://fintrack.gabocota.net/) (returned HTTP 502 during the October 15, 2026 documentation review) · [Source](https://github.com/mr-Mariano/fintrack)
 
 ## What it implements
 
